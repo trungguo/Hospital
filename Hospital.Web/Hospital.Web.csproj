@@ -36,5 +36,15 @@
 	</ItemGroup>
 	<ItemGroup>
 	  <Folder Include="Areas\Identity\Data\" />
+	  <Folder Include="wwwroot\css\Client\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <None Include="wwwroot\css\Admin\assets\demo\chart-area-demo.js" />
+	  <None Include="wwwroot\css\Admin\assets\demo\chart-bar-demo.js" />
+	  <None Include="wwwroot\css\Admin\assets\demo\chart-pie-demo.js" />
+	  <None Include="wwwroot\css\Admin\assets\demo\datatables-demo.js" />
+	  <None Include="wwwroot\css\Admin\assets\img\error-404-monochrome.svg" />
+	  <None Include="wwwroot\css\Admin\js\datatables-simple-demo.js" />
+	  <None Include="wwwroot\css\Admin\js\scripts.js" />
 	</ItemGroup>
 </Project>

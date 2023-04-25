@@ -51,10 +51,7 @@ namespace Hospital.Web.Areas.Identity.Pages.Account
             _webHostEnvironment = webHostEnvironment;
         }
 
-        /// <summary>
-        ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
-        ///     directly from your code. This API may change or be removed in future releases.
-        /// </summary>
+        
         [BindProperty]
         public InputModel Input { get; set; }
 
